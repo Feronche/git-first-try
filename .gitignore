@@ -1,0 +1,4 @@
+# Excluded directory
+temp
+# Excluded files
+debug.log
